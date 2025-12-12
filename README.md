@@ -195,13 +195,6 @@ Live dashboard analytics
 
 Camera streaming support
 
-👥 Team
-
-Two-person development team:
-
-Member A: YOLO integration, image processing
-
-Member B: Backend development, networking, UI design
 
 📜 License
 

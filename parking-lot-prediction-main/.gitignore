@@ -1,8 +1,8 @@
 venv/
-data/
-results/
-results_server/
-uploads/
+parking-lot-prediction-main/data/
+parking-lot-prediction-main/results/
+parking-lot-prediction-main/results_server/
+parking-lot-prediction-main/uploads/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -10,6 +10,7 @@ __pycache__/
 *.jpg
 *.jpeg
 *.png
+
 
 
 

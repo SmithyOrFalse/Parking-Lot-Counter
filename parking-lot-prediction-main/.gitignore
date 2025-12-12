@@ -1,0 +1,15 @@
+venv/
+data/
+results/
+results_server/
+uploads/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.jpg
+*.jpeg
+*.png
+
+
+
